@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brice!
-- 👀 I’m interested in becoming a better web developper.
-- 🌱 I’m currently getting better at Javascript and front-end frameworks.
+- 👀 I’m interested in becoming a better  developper.
+- 🌱 I’m currently learning JAVA.
 
 <!---
 BriceDO/BriceDO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
